@@ -6,7 +6,7 @@ I implemented this project for my foundation of computer and programming course.
 # Images
 📸 The screenshot below is showing my project artwork.<br />
 <img src="screenshots/total.png"></img> 
-<img src="doodle.gig"></img> 
+<img src="doodle.gif"></img> 
 
 
 ## Language 
